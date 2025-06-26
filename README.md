@@ -67,3 +67,23 @@ These are detailed and polished wireframes that closely resemble the final produ
 
 ## Wireframe Type in This Project
 For this project, we are starting with **low-fidelity wireframes** to define the core layout and functionality before refining the visual design. This approach allows for quick iteration and feedback before investing in high-detail prototypes.
+
+## Wireframing Tools
+There are several tools available for creating wireframes, ranging from basic sketching apps to fully-featured design platforms. Some popular wireframing tools include:
+
+- **Balsamiq** – Great for low-fidelity wireframes with a hand-drawn feel.
+- **Adobe XD** – Offers wireframing and prototyping features in one.
+- **Sketch** – Widely used for macOS users; good for UI/UX design.
+- **Figma** – A powerful, cloud-based design tool with real-time collaboration.
+
+### Why Figma?
+Figma is highly recommended because of its ease of use, collaboration features, and flexibility. It allows multiple team members to work on the same file in real time. It’s web-based, so there's no need to install software, and it supports both low- and high-fidelity wireframes.
+
+**Key Features of Figma:**
+- Real-time collaboration
+- Drag-and-drop interface
+- Supports prototyping and design in one platform
+- Easy sharing via links
+- Free tier available for individual use
+
+Figma streamlines the design-to-development workflow, making it an excellent tool for both beginners and professionals.
